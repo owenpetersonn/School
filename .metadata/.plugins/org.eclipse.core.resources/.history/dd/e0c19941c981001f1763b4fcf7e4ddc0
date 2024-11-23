@@ -1,0 +1,27 @@
+import java.util.Scanner;
+
+
+public class Project {
+
+	
+	public static void main(String[] args) {
+		
+		Scanner in = new Scanner(System.in);
+		
+		int answer = (int) (Math.random()*101);
+		System.out.println("Random number between 1-100 generated. "
+				+ "Guess: ");
+		int input = in.nextInt();
+		while(input!=answer) {
+			System.out.println("(For admin: " + answer);
+			System.out.println("Wrong. Try again: ");
+			input = in.nextInt();
+			
+		}
+		
+		
+		
+		
+	}
+
+}

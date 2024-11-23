@@ -1,0 +1,34 @@
+!SESSION 2024-10-03 16:22:56.205 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-03 16:23:01.951
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-03 16:26:11.115
+!MESSAGE Logback config file: /Users/robertowenpeterson/Library/CloudStorage/OneDrive-GeorgiaStateUniversity/CS1302/Code/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-10-03 22:11:00.641 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/robertowenpeterson/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/robertowenpeterson/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-03 22:11:04.337
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-03 22:11:12.367
+!MESSAGE Logback config file: /Users/robertowenpeterson/Library/CloudStorage/OneDrive-GeorgiaStateUniversity/CS1302/Code/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui.ide 4 4 2024-10-03 22:37:35.278
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 2 1 2024-10-03 22:37:35.285
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2024-10-03 22:37:35.286
+!MESSAGE The project description file (.project) for 'School' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.

@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+
+public class Project {
+
+	public static String reverseStr(String x) {
+		String reversed = "";
+		for (int i = x.length(); i < 0; i--) {
+			 reversed += x.charAt(i);
+			
+		}
+		
+		return reversed;
+	}
+	
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		
+		
+		System.out.println("Enter a string: ");
+		String x = in.next();
+		System.out.println("Here is the string reversed: " + 
+		reverseStr(x));
+		
+		
+	}
+
+}
