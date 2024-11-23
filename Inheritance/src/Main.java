@@ -41,12 +41,8 @@ public class Main {
         for (Rectangle object : objects) {
             System.out.println(object + " | Area: " + object.getArea() + " | Perimeter: " + object.getPerimeter());
         }
-
-
-
-
-
     }
+
 }
 
 /* Console I/O

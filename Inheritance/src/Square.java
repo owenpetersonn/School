@@ -1,5 +1,6 @@
 public class Square extends Rectangle {
 
+    // Constructor
     public Square(int side) {
         super(side, side);
     }
@@ -8,6 +9,5 @@ public class Square extends Rectangle {
     public String toString() {
         return "Square with side length of " + length;
     }
-
 
 }
