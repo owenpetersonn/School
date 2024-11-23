@@ -48,3 +48,29 @@ public class Main {
 
     }
 }
+
+/* Console I/O
+
+Enter the length for rectangle number 1:
+10
+Enter the width for rectangle number 1:
+20
+Enter the length for rectangle number 2:
+20
+Enter the width for rectangle number 2:
+30
+Enter the length for rectangle number 3:
+30
+Enter the width for rectangle number 3:
+40
+Enter the side length for square number 1:
+10
+Enter the side length for square number 2:
+20
+Rectangle with length of 10 and width of 20 | Area: 200 | Perimeter: 60
+Rectangle with length of 20 and width of 30 | Area: 600 | Perimeter: 100
+Rectangle with length of 30 and width of 40 | Area: 1200 | Perimeter: 140
+Square with side length of 10 | Area: 100 | Perimeter: 40
+Square with side length of 20 | Area: 400 | Perimeter: 80
+
+ */
